@@ -91,6 +91,6 @@ public class MultiThread extends Thread
         //
         // We add the MultiThread.class, so we ensure that we synchronize the entire class, as
         // x is not within the specific run() method - that is why we do not use
-        // public synchronized void run() as a solution
+        // public synchronized void run() as a solution.
 
 
